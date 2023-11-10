@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jeyguix7xv5350p7?svg=true)](https://ci.appveyor.com/project/Polina23707/js-adv-04-clearfunctions)

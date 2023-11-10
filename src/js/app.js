@@ -1,6 +1,6 @@
 // TODO: write your code here
-import sum from './basic';
+import lifeStatus from './basic';
 
-console.log('worked');
+console.log(lifeStatus({name: 'Маг', health: 10}));
 
-console.log(sum([1, 2]));
+
